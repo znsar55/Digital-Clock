@@ -1,0 +1,23 @@
+body{
+    background:grey;
+}
+h1{
+    color:red;
+    font-style:italic;
+    box-shadow: 2px 2px 5px 7px black;
+}
+.clock{
+    position: absolute;
+    width: 400px;
+    height: 100px;
+    top :50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: rgb(37, 12, 12);
+    font-size: 60px;
+    background-color:red;
+    box-sizing:content-box;
+    box-shadow:3px 3px 5px 10px rgb(0, 0, 0);
+    border-radius: 5px;
+
+}
