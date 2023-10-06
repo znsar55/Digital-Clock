@@ -1,3 +1,3 @@
 # Digital-Clock
 Digital Clock
-https://github.com/znsar55/Digital-Clock.git
+https://znsar55.github.io/Digital-Clock/
